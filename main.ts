@@ -1,5 +1,5 @@
 basic.forever(function () {
-    basic.showString("I")
+    basic.showString("Mr G")
     basic.showIcon(IconNames.Heart)
     basic.showString("Digitech!")
 })
